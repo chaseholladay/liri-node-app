@@ -1,0 +1,34 @@
+#terminal output from Spotify spotify-this-song,"I Want it That Way"
+
+Artist: Landon Austin & Julia Sheer
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+Album: I Want It That Way
+
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+
+Artist: #90s Update
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Album: #90s Update
+
+Artist: Scott Bradlee's Postmodern Jukebox
+Artist: Shoshana Bean
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Artist: Jason Chen
+Artist: Joseph Vincent
+Song name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
+Album: I Want It That Way
+
